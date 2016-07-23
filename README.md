@@ -42,11 +42,11 @@ Buzzer will play Startwars melody
 
 # Special thanks to:
 
-[Swift for ARM](http://swift-arm.ddns.net/), thanks to @iachievedit
+[Swift for ARM](http://swift-arm.ddns.net/), thanks to [@iachievedit](https://github.com/iachievedit)
 
-[SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO), thanks to @uraimo
+[SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO), thanks to [@uraimo](https://github.com/uraimo)
 
-Logic and melody based on [rpi-examples](https://github.com/leon-anavi/rpi-examples/blob/master/buzzer/c/starwars.c) by @leon-anavi
+Logic and melody based on [rpi-examples](https://github.com/leon-anavi/rpi-examples/blob/master/buzzer/c/starwars.c) by [@leon-anavi](https://github.com/leon-anavi)
 
-Musical notes frecuencies calculated based [NoteFrecuency.swift](https://gist.github.com/NickEntin/7f0516a6c62ab0485720) by @NickEntin
+Musical notes frecuencies calculated based [NoteFrecuency.swift](https://gist.github.com/NickEntin/7f0516a6c62ab0485720) by [@NickEntin](https://github.com/NickEntin)
 
