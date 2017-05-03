@@ -9,7 +9,7 @@ Swift + Orange Pi + Buzzer
 
 ## Go inside RGBSemaphore
 
-    cd RGBSemaphore
+    cd SwiftyBuzz
 
 ## Build (will show errors)
 
